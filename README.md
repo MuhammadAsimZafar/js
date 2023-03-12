@@ -1,2 +1,2 @@
 # js
-A code repo for JavaScript series at Chai aur code youtub
+A code repo for JavaScript series at Chai aur code youtube
